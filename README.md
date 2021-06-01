@@ -5,7 +5,7 @@ This research was conducted to be presented at ISPG Research Forum 2021. In this
 
 ## Tools Used
 - Python version: 3.6.9
-- Packages: Python, Numpy, Matplotlib, pandas, jcopml, scikit-learn
+- Packages: Numpy, Matplotlib, pandas, jcopml, scikit-learn
 
 ## Data Cleaning
 Based on the data observation from missing values and data plotting, there are several outliers on GR, DTCO, and NPHI features that needed to be replaced by NaN, so it can be imputed on the preprocessing stages. 
