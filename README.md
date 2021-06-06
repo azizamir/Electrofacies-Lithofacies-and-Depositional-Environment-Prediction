@@ -1,4 +1,4 @@
-# Electrofacies-Lithofacies-and-Depositional-Environment-Prediction.
+# Electrofacies-Lithofacies-and-Depositional-Environment-Prediction
 
 ## Overview
 This research was conducted to be presented at ISPG Research Forum 2021. In this research, my partner and I are implemented the usage of machine learning in petroleum geoscience by utilized the K-Nearest Neighbors (KNN) as the supervised learning model algorithm to predict electrofacies pattern, lithofacies, and depositional environment classification of three wells from The Browse Basin using P-2 and K-1 well data as training dataset and B-1 well data as testing dataset whereas all of the wells are on the same area. This implementation is intended to aid hydrocarbon exploration activities by reducing subsurface uncertainty and interpretation time.
