@@ -27,5 +27,5 @@ The confusion matrix result from validation stages shows that the KNN algorithm 
 ## Geoscience Interpretation
 The model also generates quite good electrofacies, lithofacies, and depositional environment classification patterns based on the B-1 well plot and indicates that there is a Plover Fm continuity as the reservoir zone at depth ~4780 m to ~4870 m that predicted having a dominant Siltstone-Sandstone facies and marine-influenced depositional environment.
 
-<img src="https://github.com/azizamir/electrofacies--lithofacies--and-depositional-environment-prediction/blob/main/results/B-1%20Prediction.png" width="900" height="500" />
+<img src="https://github.com/azizamir/electrofacies-lithofacies-and-depositional-environment-prediction/blob/main/results/b-1-prediction.png?raw=true" width="900" height="500" />
 
